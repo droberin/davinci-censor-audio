@@ -10,7 +10,7 @@ Python Script to add censor track (beep) on a timeline in DaVinci Resolve Studio
 * Carefully rerun if needed, it will create a new track on every run.
 
 ## Video example Usage
-https://youtu.be/LBVSGMBkoMo (no audio)
+https://www.youtube.com/watch?v=rZeqrLigML0 (no audio)
 
 ## WARNINGS
 * It will look for a file "beep.mp3" (not valid if you rename it through DaVinci) in "censoring" subfolder of the project.
